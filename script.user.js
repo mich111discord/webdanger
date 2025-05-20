@@ -5,9 +5,6 @@
 // @description  Blokowanie podejrzanych stron na podstawie bazy adresów URL
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
-// ==/UserScript==
-// Ineo © 2023-2025
-
 const DATA_URLS = [
     "https://hole.cert.pl/domains/v2/domains.txt",
     "https://raw.githubusercontent.com/DevSpen/scam-links/refs/heads/master/src/links.txt",
