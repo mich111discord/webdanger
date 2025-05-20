@@ -6,7 +6,7 @@
 // @match        *://*/*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
-
+// Ineo © 2023-2025
 
 const DATA_URLS = [
     "https://hole.cert.pl/domains/v2/domains.txt",
