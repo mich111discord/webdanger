@@ -1,4 +1,4 @@
-// ==UserScript==
+==UserScript==
 // @name         Ineo Security Web Blocker (Tampermonkey)
 // @namespace    http://tampermonkey.net/
 // @version      1.0
