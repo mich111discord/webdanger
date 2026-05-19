@@ -203,3 +203,5 @@ vibrantmedia.com
 videologygroup.com
 yieldlab.net
 zango.com
+media.net
+static.media.net
