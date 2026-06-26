@@ -38,7 +38,6 @@ https://pl.pornhub.com/
 https://pornhub.xxx/
 https://de.pornhub.org/
 https://fr.pornhub.com/
-http://*.xxx
-https://*.xxx
-https://*.org
+*.xxx
+
 
