@@ -1,0 +1,2 @@
+paypal=paypal.com
+inpost=inpost.pl , inpost.es , inpostpay.pl , inpostfresh.pl
