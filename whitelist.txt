@@ -1,2 +1,5 @@
 paypal=paypal.com
 inpost=inpost.pl , inpost.es , inpostpay.pl , inpostfresh.pl
+olx=olx.pl
+allegro=allegro.pl , allegrolokalnie.pl
+
